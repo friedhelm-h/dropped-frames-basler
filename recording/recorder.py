@@ -6,7 +6,7 @@ import yaml
 
 import pypylon.pylon as py
 
-from cocapture.basler.video_writer import VideoWriter
+from recording.video_writer import VideoWriter
 
 
 class Recorder:
