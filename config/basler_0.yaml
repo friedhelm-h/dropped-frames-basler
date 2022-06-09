@@ -1,0 +1,9 @@
+Parameter:
+  LineSelector: Line1
+  LineMode: Input
+  TriggerSelector: FrameStart
+  TriggerSource: Line1
+  TriggerMode: On
+  ExposureTime: 1000
+  ReverseX: On
+  TriggerActivation: RisingEdge
