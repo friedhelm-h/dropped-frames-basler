@@ -6,6 +6,8 @@ Install requirements:
 
     pip install -r requirements.txt
 
-Run:
+Attach a basler USB camera to the machine and run:
 
     python minimal-error-reproduction.py
+
+a mp4 file is written to the specified output directory (default: data)
