@@ -1,0 +1,3 @@
+opencv-python==4.5.5.64
+pypylon==1.8.0
+PyYAML==6.0

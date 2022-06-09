@@ -4,6 +4,6 @@ Parameter:
   TriggerSelector: FrameStart
   TriggerSource: Line1
   TriggerMode: On
-  ExposureTime: 1000
+  ExposureTime: 5000
   ReverseX: On
   TriggerActivation: RisingEdge
